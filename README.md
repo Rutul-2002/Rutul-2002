@@ -1,5 +1,7 @@
-<h1 align="center"> Hi there I am Rutul Waradkar👋</h1>
-![image](https://user-images.githubusercontent.com/83869100/187152573-9f8b030a-ce7e-414e-a34c-c5fae3369eee.png)
+<h1 align="center"> Hi there I am Rutul Waradkar👋 </h1>
+
+![image](https://user-images.githubusercontent.com/83869100/187152985-9a05bdc4-504c-4d74-ab21-1a376ebfc738.png)
+
 
 <h1 align="center">About</h1>
 I am **Rutul Waradkar** currently persuing Bachelor's of Engineeering in Information Technology at Mumbai University.
