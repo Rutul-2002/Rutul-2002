@@ -4,6 +4,7 @@
 
 
 <h1 align="center">About</h1>
+
 I am **Rutul Waradkar** currently persuing Bachelor's of Engineeering in Information Technology at Mumbai University.
 
 <!--
