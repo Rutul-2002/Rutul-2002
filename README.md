@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there I am Rutul Waradkar👋 </h1>
 
-![image](https://user-images.githubusercontent.com/83869100/187152985-9a05bdc4-504c-4d74-ab21-1a376ebfc738.png)
+<img width="100%" height="600px" style="object-fit: fill;" src="https://user-images.githubusercontent.com/83869100/187152985-9a05bdc4-504c-4d74-ab21-1a376ebfc738.png"></img>
 
 
 <h1 align="center">About</h1>
